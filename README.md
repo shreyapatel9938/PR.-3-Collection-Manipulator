@@ -25,3 +25,12 @@ This project demonstrates fundamental Python concepts and data structures.
 - Loops and conditional statements
 - `match-case` statements
 - User input handling
+
+## Student Information:
+The program stores the following details:
+- Student ID
+- Student Name
+- Student Age
+- Student Grade
+- Student Date of Birth
+- Student Subjects
