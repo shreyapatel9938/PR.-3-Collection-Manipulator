@@ -14,7 +14,7 @@ This project demonstrates fundamental Python concepts and data structures.
 - **Display All Students:** View all stored student records.
 - **Update Student Information:** Modify student details using their student ID.
 - **Delete Student:** Remove a student record using their student ID.
-- **Search Students by Subject:** Find students enrolled in a specific subject.
+- **Display Subjects Offered:** Display all unique subjects offered by students.
 - **Exit:** Terminate the application.
 
 ## Concepts Implemented:
