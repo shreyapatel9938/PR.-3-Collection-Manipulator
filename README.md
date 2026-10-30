@@ -38,8 +38,8 @@ The program stores the following details:
 ## Output:
 
 ![screenshot 1](Output1.png)
-![screenshot 2:](Output2.png)
-![screenshot 3:](Output3.png)
-![screenshot 4:](Output4.png)
-![screenshot 5:](Output5.png)
-![screenshot 6:](Output6.png)
+![screenshot 2](Output2.png)
+![screenshot 3](Output3.png)
+![screenshot 4](Output4.png)
+![screenshot 5](Output5.png)
+![screenshot 6](Output6.png)
