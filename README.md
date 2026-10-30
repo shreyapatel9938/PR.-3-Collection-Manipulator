@@ -40,4 +40,4 @@ The program stores the following details:
 ! [Output SS 3:](Output3.png)
 ! [Output SS 4:](Output4.png)
 ! [Output SS 5:](Output5.png)
-! [Output SS 6:](Output6.png)
+! [Screenshot 1:](Output6.png)
