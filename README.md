@@ -35,9 +35,11 @@ The program stores the following details:
 - Student Date of Birth
 - Student Subjects
 
+## Output:
+
 ![screenshot 1](Output1.png)
-![Output SS 2:](Output2.png)
-![Output SS 3:](Output3.png)
-![Output SS 4:](Output4.png)
-![Output SS 5:](Output5.png)
-![Output SS 6:](Output6.png)
+![screenshot 2:](Output2.png)
+![screenshot 3:](Output3.png)
+![screenshot 4:](Output4.png)
+![screenshot 5:](Output5.png)
+![screenshot 6:](Output6.png)
